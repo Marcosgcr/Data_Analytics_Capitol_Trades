@@ -8,3 +8,7 @@ This is a repository to me train Data Analysis using data of Capitol Trades.
 4) Analyze:
 5) Share:
 6) Act:
+
+# Useful links
+For data analysis I will be using beautiful Soap:
+https://beautiful-soup-4.readthedocs.io/en/latest/
