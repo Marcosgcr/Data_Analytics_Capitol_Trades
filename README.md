@@ -14,7 +14,7 @@ For example, use the sum average of the politicians are together buying or selli
 6) Act:
 
 # Useful links
-[United States Senate Financial Disclosures (eFD)]([https://efdsearch.senate.gov/search/home/)
+[United States Senate Financial Disclosures (eFD)](https://efdsearch.senate.gov/search/home/)
 [Capital Trades](https://www.capitoltrades.com/)
 [Senate Stock Watcher](https://senatestockwatcher.com/)
 [Beautiful Soap](https://beautiful-soup-4.readthedocs.io/en/latest/)
