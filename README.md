@@ -4,7 +4,7 @@ This is a repository to train Data Analysis using data of politicians that trade
 
 [Capital Trades](https://www.capitoltrades.com/) and  [Senate Stock Watcher](https://senatestockwatcher.com/) are  websites that shows what congressperson and senators are trading. 
 
-One of their primary source is the [United States Senate Financial Disclosures (eFD)]([https://efdsearch.senate.gov/search/home/)
+One of their primary source is the [United States Senate Financial Disclosures (eFD)](https://efdsearch.senate.gov/search/home/)
 
 
 Many politicians of US had great success in trading, maybe this results as a insider trading, some are accused of. The main goal here isn´t to see if that´s true or not, It is to use the success of the political as data. 
