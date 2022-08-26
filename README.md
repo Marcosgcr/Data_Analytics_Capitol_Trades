@@ -7,9 +7,11 @@ This is a repository to train Data Analysis using data of politicians that trade
 One of their primary source is the [United States Senate Financial Disclosures (eFD)](https://efdsearch.senate.gov/search/home/)
 
 
-Many politicians of US had great success in trading, maybe this results as a insider trading, some are accused of. The main goal here isn´t to see if that´s true or not, It is to use the success of the political trades as data. 
+Many politicians of US had great success in trading, maybe this results as a insider trading, some are accused of this illegal action. The main goal here isn´t to see if that´s true or not, It is to use their as data analysis. 
 
-For example, use the sum average of the politicians are together buying or selling and what that meant in the past, if they were rigth or wrong.
+For example:
+-Use the sum average of the politicians are together buying or selling and what that meant in the past, if they were rigth or wrong.
+
 
 # The 6 process of Data Analysis
 1) Ask: In average, how many days an politician holds an stock? What is the average profit of an politician? The average of politicians hold the same stocks, at the same time?
